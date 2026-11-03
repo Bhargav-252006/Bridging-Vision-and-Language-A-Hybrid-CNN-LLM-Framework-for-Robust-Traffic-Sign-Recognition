@@ -98,7 +98,7 @@ This repository implements a **two-stage traffic sign recognition system** train
 
 ## Algorithm
 
-> The full 13-step algorithm is also available in [`papers/algorithm.txt`](../papers/algorithm.txt).
+> The full 13-step algorithm is also available in [`docs/papers/algorithm.txt`](../docs/papers/algorithm.txt).
 
 **Step 1.** Load the GTSRB dataset (43 traffic sign classes) with predefined train/test splits.
 

@@ -80,3 +80,7 @@ models/
 .env
 .env.*
 
+
+# Local-only folders (not committed)
+docs/
+not_required/
